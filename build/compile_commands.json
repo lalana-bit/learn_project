@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/lalana/Desktop/C_test/build",
+  "command": "D:\\MinGW\\i686-15.2.0-release-mcf-dwarf-ucrt-rt_v13-rev1\\mingw32\\bin\\cc.exe  @CMakeFiles/hello_app.dir/includes_C.rsp -std=gnu11 -o CMakeFiles\\hello_app.dir\\main.c.obj -c C:\\Users\\lalana\\Desktop\\C_test\\main.c",
+  "file": "C:/Users/lalana/Desktop/C_test/main.c",
+  "output": "CMakeFiles/hello_app.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/lalana/Desktop/C_test/build",
+  "command": "D:\\MinGW\\i686-15.2.0-release-mcf-dwarf-ucrt-rt_v13-rev1\\mingw32\\bin\\cc.exe  @CMakeFiles/hello_app.dir/includes_C.rsp -std=gnu11 -o CMakeFiles\\hello_app.dir\\hello.c.obj -c C:\\Users\\lalana\\Desktop\\C_test\\hello.c",
+  "file": "C:/Users/lalana/Desktop/C_test/hello.c",
+  "output": "CMakeFiles/hello_app.dir/hello.c.obj"
+}
+]
